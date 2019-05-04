@@ -1,2 +1,1 @@
-# Greadme
-Script bash para generar el readme desde consola sin modificacion y accion de los cuadros de texto.
+# Pedro\n \n ## Descripcion\n Pro \n ## Instalacion\n foo \n ## Licencia\n foo \n ## Autor\n foo \n \n 04-05-19
