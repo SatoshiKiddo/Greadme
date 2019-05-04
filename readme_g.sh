@@ -38,4 +38,4 @@ $AUTOR
 \n
 $(date +'%d-%m-%y')"
 
-echo $CONTENT >> README.md
+echo -e $CONTENT >> README.md
